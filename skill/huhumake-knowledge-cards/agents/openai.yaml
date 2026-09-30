@@ -1,0 +1,4 @@
+interface:
+  display_name: "HUHUmake Knowledge Cards"
+  short_description: "将文章或 Markdown/TXT 文件整理为清晰、可核验的印象派知识卡片"
+  default_prompt: "使用 $huhumake-knowledge-cards 将这篇文章转换成 6～10 张知识卡。"
